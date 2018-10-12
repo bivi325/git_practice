@@ -16,7 +16,6 @@ QW
 WE
 
 DC
-<<<<<<< Updated upstream
 15
 
 213EQ
@@ -29,7 +28,3 @@ DCSE
 DCQ2EQDASD
 sadasdasd
 AS
-=======
-AS
-asdasdgit
->>>>>>> Stashed changes
